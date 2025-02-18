@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Sathi Satyanarayana Reddy! 👋</h1>
 
 <p align="center">
-  <img src="YOUR_CUSTOM_IMAGE_URL" width="200" alt="Profile Image">
+  <img src="YOUR_CUSTOM_IMAGE_URL" width="200" alt="Profile Image" style="border-radius: 50%; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);">
 </p>
 
 <h2>💡 About Me</h2>
