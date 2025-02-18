@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Sathi Satyanarayana Reddy! 👋</h1>
 
 <p align="center">
-  <img src="https://github.com/Satyanarayana-Reddy2003/Satyanarayana-Reddy2003/blob/main/WhatsApp%20Image%202025-02-18%20at%2020.26.52_0644fd4e.jpg" width="200" alt="Profile Image" style="border-radius: 50%; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);">
+  <img src="https://github.com/Satyanarayana-Reddy2003/Satyanarayana-Reddy2003/blob/main/fotor-20250218204857.png" width="200" alt="Profile Image" style="border-radius: 50%; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);">
 </p>
 
 <h2>💡 About Me</h2>
